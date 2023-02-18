@@ -5,7 +5,7 @@ Mobile app developed to demonstrate using and understanding React Native.
 The app  allows the user to sign in with Google and then display some options for the user. Simply run it with the right dependencies installed and then sign in to begin.
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/Nq_0vlrj9KA)
 
 # Development Environment
 
